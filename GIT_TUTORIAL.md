@@ -344,7 +344,7 @@ git push origin --tags
 
 ## Working with This Repository
 
-This repository contains the OpenAPI/Swagger specification for the Mercedes-Benz Remote Diagnostic Support API.
+This repository contains the OpenAPI/Swagger specification for the Remote Diagnostic Support API.
 
 ### Typical Workflow for Updating the API Specification
 
