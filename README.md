@@ -27,6 +27,17 @@ You can use this specification with:
 - [OpenAPI Generator](https://openapi-generator.tech/)
 - [Postman](https://www.postman.com/)
 
+## Git Tutorial
+
+New to Git or need a refresher? Check out our comprehensive [Git Tutorial](GIT_TUTORIAL.md) that covers:
+
+- Basic Git concepts and workflow
+- Working with branches
+- Collaborating with others
+- Common commands and best practices
+- Troubleshooting tips
+- Repository-specific workflows
+
 ---
 
 *Generated automatically by GitHub CLI Creator*
